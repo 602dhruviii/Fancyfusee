@@ -1,3 +1,7 @@
+# FancyFuse - Custom Fashion Retail Website
+
+Welcome to FancyFuse, the platform that is set to revolutionize your online fashion shopping experience. With FancyFuse, you can create custom fashion items that match your unique style and preferences effortlessly. Whether you're a user looking to personalize your wardrobe or a developer interested in our platform, this README will guide you through the key aspects of our website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

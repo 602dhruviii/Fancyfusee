@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Concert+One&family=Fredericka+the+Great&display=swap");
+.fs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.ls{
+    margin:5rem;
+
+}
+.bull{
+    width:35px;
+}
+u{
+    color:rgb(137, 141, 246);
+}
+ul {
+    list-style-type: none;
+  }
+
+li{
+    display: flex;
+    flex-direction: row;
+}
+p,li{
+    font-family: 'Concert One';
+    color:rgb(136, 195, 244);
+}
